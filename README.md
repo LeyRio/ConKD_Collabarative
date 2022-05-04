@@ -2,7 +2,7 @@
 
 This is the code for improving the model of LTML with Supervised Contrastive Learning and Knowledge Distillation.
  
-The Model is improved from the work ""
+The Model is improved from the work "Long-Tailed Multi-Label Visual Recognition by Collaborative Training on Uniform and Re-balanced Samplings" by Hao Guo
 
 ## Requirements 
 * [Pytorch](https://pytorch.org/)
